@@ -49,7 +49,7 @@ If you'd like to contribute or have suggestions, please fork the repository and 
 
 ## License
 
-This project is under the MIT License - kindly refer to the [LICENSE.md](LICENSE.md) file for specifics.
+This project is under the MIT License - kindly refer to the [LICENSE](LICENSE) file for specifics.
 
 ## Acknowledgments
 
