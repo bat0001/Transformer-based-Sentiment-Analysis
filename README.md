@@ -35,6 +35,8 @@ Inspired by the seminal paper "Attention Is All You Need" by Vaswani et al., I d
 **To train the model:
    ```bash
    python main.py
+```
+
 
 This script orchestrates the data preparation, trains the model on the supplied dataset, and assesses its performance on a test subset.
 
