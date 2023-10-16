@@ -32,7 +32,7 @@ Inspired by the seminal paper "Attention Is All You Need" by Vaswani et al., I d
 
 ## Usage
 
-**To train the model:
+**To train the model:**
    ```bash
    python main.py
 ```
