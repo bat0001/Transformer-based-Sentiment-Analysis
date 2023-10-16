@@ -16,19 +16,19 @@ Inspired by the seminal paper "Attention Is All You Need" by Vaswani et al., I d
   
 - **End-to-End Training and Evaluation**: Comprehensive training and evaluation routines, equipped with logging capabilities for keen insights into the model's performance.
 
-## Installation
+## Setup & Installation
 
-1. Clone this repository:
+1. **Clone this repository:**
+   ```bash
+   git clone git@github.com:bat0001/Transformer-based-Sentiment-Analysis.git
 
-git clone git@github.com:bat0001/Transformer-based-Sentiment-Analysis.git
+2. **Navigate to the project directory:
+   ```bash
+   cd transformer-sentiment-analysis
 
-2. Navigate to the project directory:
-
-cd transformer-sentiment-analysis
-
-3. Install the required packages:
-
-pip install -r requirements.txt
+3. **Install the required packages:
+   ```bash
+   pip install -r requirements.txt
 
 ## Usage
 
