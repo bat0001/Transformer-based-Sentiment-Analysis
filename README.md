@@ -22,11 +22,11 @@ Inspired by the seminal paper "Attention Is All You Need" by Vaswani et al., I d
    ```bash
    git clone git@github.com:bat0001/Transformer-based-Sentiment-Analysis.git
 
-2. **Navigate to the project directory:
+2. **Navigate to the project directory:**
    ```bash
    cd transformer-sentiment-analysis
 
-3. **Install the required packages:
+3. **Install the required packages:**
    ```bash
    pip install -r requirements.txt
 
